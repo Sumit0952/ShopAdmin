@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shopping Admin</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_discount">Enter Discount</string>
+    <string name="enter_product_description">Enter Product Description</string>
+    <string name="enter_product_name">Enter Product Name</string>
+    <string name="add_product_multiple_sub_images">Add Product Multiple Sub Images</string>
+    <string name="add_product_display_image">Add Product Display Image</string>
+    <string name="add_product_colors">Add Product Colors</string>
+    <string name="save_product">Save Product</string>
+    <string name="enter_color_name">Enter Color Name</string>
+</resources>
